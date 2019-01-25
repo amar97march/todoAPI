@@ -1,0 +1,4 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "python.pythonPath": "/usr/bin/python3"
+}
